@@ -20,10 +20,11 @@ One bash script. Animated terminal menu. Built for Kali, Debian and Ubuntu.</p>
 </p>
 
 <p>
-  <img alt="Stars" src="https://img.shields.io/github/stars/YOUR_USERNAME/antigravity-ide-linux-setup?style=flat&logo=github">
-  <img alt="Issues" src="https://img.shields.io/github/issues/YOUR_USERNAME/antigravity-ide-linux-setup">
-  <img alt="Last commit" src="https://img.shields.io/github/last-commit/YOUR_USERNAME/antigravity-ide-linux-setup">
-  <img alt="Unofficial" src="https://img.shields.io/badge/Unofficial-not%20affiliated%20with%20Google-lightgrey">
+  <img alt="Stars" src="https://img.shields.io/github/stars/zoro0x0/antigravity-ide-installer-linux?style=flat&logo=github">
+<img alt="Issues" src="https://img.shields.io/github/issues/zoro0x0/antigravity-ide-installer-linux">
+<img alt="Last commit" src="https://img.shields.io/github/last-commit/zoro0x0/antigravity-ide-installer-linux">
+<img alt="Unofficial" src="https://img.shields.io/badge/Unofficial-not%20affiliated%20with%20Google-lightgrey">
+
 </p>
 
 <p>
